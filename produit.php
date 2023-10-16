@@ -5,7 +5,9 @@
 include 'templates/header.php';
 ?>
 <main>
+    <p><?php echo $translations["texte"]; ?></p>
     <p><?php echo $translations["lait"]; ?></p>
+    <p><?php echo $translations["cookies"]; ?></p>
 </main>
 
 

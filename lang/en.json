@@ -2,6 +2,7 @@
  "accueil": "home",
   "produit": "products",
   "contact": "contact",
+ "texte" : "the sky is blue",
  "lait" : "milk is a liquid",
- "les cookies sont des biscuits" : "Cookies are biscuit"
+ "cookies" : "Cookies are biscuit"
 }
